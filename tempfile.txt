@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 6 stephy stephy 4096 Jun 11 14:48 coding
+-rw-r--r-- 1 stephy stephy 1068 May 29 12:33 LICENSE
+-rw-r--r-- 1 stephy stephy   77 May 29 12:33 README.md
+-rw-r--r-- 1 stephy stephy    0 Jun 12 12:09 tempfile.txt
